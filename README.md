@@ -4,7 +4,6 @@ Software Engineer @ Ducen IT
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - :computer: I’m a Full stack developer (Software Engineer)
 - 👯 I’m looking to collaborate on ML/AI
-- :star: Skilled problem solver with a strong foundation in DSA
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srimanikandan-k-7a00b2146/)
