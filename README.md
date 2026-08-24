@@ -5,8 +5,6 @@ Software Engineer @ Ducen IT
 - :computer: I’m a Full stack developer (Software Engineer)
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srimanikandan-k-7a00b2146/)
 - 😄 Pronouns: Techie
 
 ### I code in
